@@ -86,7 +86,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * Conduct surveys in the LATAM region to better understand consumer behavior and focus on products with the highest demand, ensuring better market penetration
 <br><br>
 
-<a href="https://mavenanalytics.io/project/18173"> View Full Report details </a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGZjYzI3MjYtMjQ0Mi00MjQyLTg0N2MtNTBkYTE4ZDJjMmRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> View Full Report details </a>
 <br><br>
 
 ### Key Enhancements to the Dashboard
